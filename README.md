@@ -1,5 +1,5 @@
-# sususekolah
-sususekolah
+# Susu Sekolah
+Tunggu sebentar. Harap bersabar
 <!DOCTYPE html>
 <html lang="en">
 <head>
